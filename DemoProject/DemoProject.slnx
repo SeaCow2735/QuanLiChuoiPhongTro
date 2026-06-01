@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Default" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="Demo.sql" />
+    <File Path="test_transaction.sql" />
+  </Folder>
+  <Project Path="DemoProject/DemoProject.sqlproj" Type="42ea0dbd-9cf1-443e-919e-be9c484e4577">
+    <BuildType Solution="Default|*" Project="Release" />
+  </Project>
+</Solution>
